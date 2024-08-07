@@ -1,14 +1,10 @@
-# WPMUDEV Test Plugin #
-
-This is a plugin that can be used for testing coding skills for WordPress and PHP.
-
 # Development
 
 ## Composer
 Install composer packages
 `composer install`
 
-## Build Tasks (npm)
+## Build (npm)
 Everything should be handled by npm.
 
 Install npm packages
